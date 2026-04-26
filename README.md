@@ -3,10 +3,10 @@
 ![alt text](images/image-1.png)
 
 # Services similar to Github 
-Gitlab
-Bitbucket (by Atlassian)
+1. Gitlab
+2. Bitbucket (by Atlassian)
 
 # Services similar to Github Actions CI 
-JenkinsCI
-TravisCI
+1. JenkinsCI
+2. TravisCI
 
