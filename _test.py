@@ -1,7 +1,7 @@
-import pytest
 '''
 This module is for running tests on the functions defined in app.py
 '''
+import pytest
 
 # Function to test square
 def square(n):
