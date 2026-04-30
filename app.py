@@ -1,5 +1,5 @@
 import streamlit as st
-'''This is a simple Streamlit app that calculates the square, cube, and fifth power of a given integer. It also includes tests for the functions that perform these calculations.'''
+'''Power Calculator app using streamlit.'''
 # Streamlit UI
 st.title("Power Calculator")
 st.write("Enter a number to calculate its square, cube, and fifth power.")

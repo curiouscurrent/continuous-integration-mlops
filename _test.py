@@ -1,6 +1,6 @@
 import pytest
 '''
-This module contains functions to calculate the square, cube, and fifth power of a number, along with tests for these functions. The tests are designed to validate the correctness of the calculations and to ensure that the functions handle invalid input appropriately.
+This module is for running tests on the functions defined in app.py
 '''
 
 # Function to test square
