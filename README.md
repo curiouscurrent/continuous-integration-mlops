@@ -16,6 +16,9 @@
 2. Create a sub-folder inside .github named workflows 
 Note : keep the same naming conventions for step 1 and 2
 3. CI implemented - First Job
-![alt text](image.png)
-4. 
+![alt text](images/image-2.1.png)
+4. Implemented code quality checks, code formatting and type checking in CI workflow
+![alt text](images/image-2.png)
+![alt text](images/image-3.png)
+
 
