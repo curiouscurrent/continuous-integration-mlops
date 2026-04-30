@@ -49,4 +49,3 @@ def test_invalid_input():
 
     with pytest.raises(TypeError):
         square("string")
-
