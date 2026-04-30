@@ -15,5 +15,7 @@
 1. Create a folder named .github
 2. Create a sub-folder inside .github named workflows 
 Note : keep the same naming conventions for step 1 and 2
-3. 
+3. CI implemented - First Job
+![alt text](image.png)
+4. 
 
